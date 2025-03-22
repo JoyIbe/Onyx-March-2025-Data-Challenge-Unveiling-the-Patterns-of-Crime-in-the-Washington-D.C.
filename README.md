@@ -1,4 +1,4 @@
-# Unveiling-the-Patterns-of-Crime-in-the-Washington-D.C.
+# Unveiling the Patterns of Crime in the Washington D.C.
 
 ## Title: Washington D.C. Crime Analysis Report
 
