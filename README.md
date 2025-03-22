@@ -45,20 +45,21 @@ Deployed Power BI DAX's functionality to create a new tables and calculate speci
 
 Overview:
 
-<img width="552" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/39c9982c-f235-464e-8f24-c3455f557e0b">
+<img width="510" alt="WC Overview" src="https://github.com/user-attachments/assets/ffd45788-e5ce-40e5-8be1-12d50f3c14b1" />
 
 Offense Type:
 
-<img width="550" alt="Supplier Logistictics Dasboard" src="https://github.com/user-attachments/assets/8177ef6a-10c7-4f12-b473-5b8d4975b44b">
+<img width="510" alt="WC Offense" src="https://github.com/user-attachments/assets/f508698c-5117-4b86-9201-8d85ed89f577" />
 
 Location:
 
+<img width="507" alt="WC Location" src="https://github.com/user-attachments/assets/3081c6e7-4dbf-4c1c-8ec5-843e7cacf10f" />
 
 ## Key Insights
 
 ### Crime Trends Over Time
 
-- Most crimes occur between 10 AM and 9 PM, peaking in the evening.
+- Most crimes occur between 10AM and 8PM, peaking in the evening.
 - The day and evening shifts experience the highest crime rates, while midnight sees a decline.
 - Law enforcement maintains a 92.65% clearance rate, yet 7.35% of cases remain unresolved.
 
